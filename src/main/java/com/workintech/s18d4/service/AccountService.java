@@ -11,5 +11,5 @@ public interface AccountService {
 
     Account save(Account account);
     Account delete(long id);
-//hoca findById değil find yaptı remove değil delete yaptı
+
 }
